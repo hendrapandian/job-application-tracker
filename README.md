@@ -101,9 +101,6 @@ The app should now be running at `http://localhost:3000` with the API on `http:/
 | PUT    | `/api/applications/:id` | Update an application entry    | Yes            |
 | DELETE | `/api/applications/:id` | Delete an application entry    | Yes            |
 
-## Screenshots
-
-*(Add screenshots of your dashboard, login page, and application list here)*
 
 ## Future Improvements
 
